@@ -1,0 +1,45 @@
+ local ohString1 = "X2POWER20MIN"
+ local ohString2 = "SORRYSHUT1"
+ local ohString3 = "Ascend"
+ local ohString4 = "BugsSquashed"
+ local ohString5 = "Celestial"
+ local ohString6 = "Christmas"
+ local ohString7 = "COLLECTOR"
+ local ohString8 = "Eggmaster"
+ local ohString9 = "FeelingLucky"
+ local ohString10 = "GetRich"
+ local ohString11 = "GODLIKE"
+ local ohString12 = "Holiday"
+ local ohString13 = "Kolapo"
+ local ohString14 = "NewYear"
+ local ohString15 = "Oatsz"
+ local ohString16 = "Secret"
+ local ohString17 = "Sharpen"
+ local ohString18 = "Spraden"
+ local ohString19 = "Striker"
+ local ohString20 = "Strongest"
+ local ohString21 = "LUCKY100"
+ 
+
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString1)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString2)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString3)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString4)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString5)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString6)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString7)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString8)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString9)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString10)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString11)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString12)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString13)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString14)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString15)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString16)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString17)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString18)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString19)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString20)
+ game:GetService("ReplicatedStorage").Packages.Knit.Services.CodeService.RF.RedeemCode:InvokeServer(ohString21)
+ 
